@@ -1,0 +1,17 @@
+{
+	"name": "npm-dependencies",
+	"version": "1.0.0",
+	"description": "npm-dependencies",
+	"main": "server.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.18.0",
+		"express": "^4.16.4",
+		"jest": "^24.1.0",
+		"memory-cache": "^0.2.0"
+	}
+}
